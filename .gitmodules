@@ -1,3 +1,12 @@
 [submodule "Chatbot"]
 	path = Chatbot
 	url = https://github.com/ROCmSoftwarePlatform/Chatbot.git
+[submodule "rocm-migraphx"]
+	path = rocm-migraphx
+	url = https://github.com/mvermeulen/rocm-migraphx.git
+[submodule "models"]
+	path = models
+	url = https://github.com/cagery/models.git
+[submodule "migraphx_sample"]
+	path = migraphx_sample
+	url = https://github.com/mvermeulen/migraphx_sample.git
